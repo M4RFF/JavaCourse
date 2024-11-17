@@ -4,7 +4,7 @@ public class swapVariables {
     public static void main(String[] args) {
 
         String x = "water";
-        String y = "Kool-Aid";
+        String y = "Coca-Cola";
         String temp;
 
         temp = x;
