@@ -8,6 +8,5 @@ public class Main {
         System.out.println("I'm 20 yo");
         System.out.println("Auto generated"); // sout + tab
 
-
     }
 }
