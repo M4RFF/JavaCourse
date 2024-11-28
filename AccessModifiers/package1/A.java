@@ -10,8 +10,6 @@ public class A {
         System.out.println(c.publicMsg);
 
         B b = new B();
-        System.out.println(b.privateMsg);
-
     }
 
 }
